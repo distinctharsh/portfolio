@@ -18,7 +18,7 @@
 
 <!-- ![](./public/image/screen.png) -->
 
-## View live preview [here](https://distinctharsh.netlify.app/).
+## View live preview [here](https://harsh-singh.netlify.app/).
 
 ---
 
