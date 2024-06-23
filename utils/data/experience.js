@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer Developer',
+    title: 'Software Development Engineer',
     company: "Infoxen Technologies Inc.",
     duration: "(Dec 2023 - Present)"
   },
@@ -9,12 +9,12 @@ export const experiences = [
     id: 2,
     title: "Web Developer",
     company: "Digital Rubix",
-    duration: "(Mar 2023 - Nov 2023)"
+    duration: "(Jan 2023 - Dec 2023)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2020 - Present)"
+    title: "Cloud Engineer (Internship)",
+    company: "Amazon Web Services (AWS)",
+    duration: "(Oct 2022 - Mar 2023)"
   }
 ]
